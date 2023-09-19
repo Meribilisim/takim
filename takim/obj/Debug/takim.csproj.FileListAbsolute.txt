@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\takim\takim\bin\Debug\takim.exe.config
+C:\Users\User\source\repos\takim\takim\bin\Debug\takim.exe
+C:\Users\User\source\repos\takim\takim\bin\Debug\takim.pdb
+C:\Users\User\source\repos\takim\takim\obj\Debug\takim.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\takim\takim\obj\Debug\takim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\takim\takim\obj\Debug\takim.Form1.resources
+C:\Users\User\source\repos\takim\takim\obj\Debug\takim.Properties.Resources.resources
+C:\Users\User\source\repos\takim\takim\obj\Debug\takim.csproj.GenerateResource.cache
+C:\Users\User\source\repos\takim\takim\obj\Debug\takim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\takim\takim\obj\Debug\takim.exe
+C:\Users\User\source\repos\takim\takim\obj\Debug\takim.pdb
